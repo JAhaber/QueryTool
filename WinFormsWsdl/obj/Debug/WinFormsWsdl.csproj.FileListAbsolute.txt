@@ -1,0 +1,27 @@
+C:\dev\WinFormsWsdl\WinFormsWsdl\bin\Debug\WinFormsWsdl.exe.config
+C:\dev\WinFormsWsdl\WinFormsWsdl\obj\Debug\WinFormsWsdl.csprojResolveAssemblyReference.cache
+C:\dev\WinFormsWsdl\WinFormsWsdl\obj\Debug\WinFormsWsdl.Form1.resources
+C:\dev\WinFormsWsdl\WinFormsWsdl\obj\Debug\WinFormsWsdl.Properties.Resources.resources
+C:\dev\WinFormsWsdl\WinFormsWsdl\obj\Debug\WinFormsWsdl.csproj.GenerateResource.Cache
+C:\dev\WinFormsWsdl\WinFormsWsdl\bin\Debug\WinFormsWsdl.exe
+C:\dev\WinFormsWsdl\WinFormsWsdl\bin\Debug\WinFormsWsdl.pdb
+C:\dev\WinFormsWsdl\WinFormsWsdl\obj\Debug\WinFormsWsdl.exe
+C:\dev\WinFormsWsdl\WinFormsWsdl\obj\Debug\WinFormsWsdl.pdb
+C:\Users\jhaber\Desktop\WinFormsWsdl\bin\Debug\WinFormsWsdl.exe.config
+C:\Users\jhaber\Desktop\WinFormsWsdl\obj\Debug\WinFormsWsdl.exe
+C:\Users\jhaber\Desktop\WinFormsWsdl\obj\Debug\WinFormsWsdl.pdb
+C:\Users\jhaber\Desktop\WinFormsWsdl\bin\Debug\WinFormsWsdl.exe
+C:\Users\jhaber\Desktop\WinFormsWsdl\bin\Debug\WinFormsWsdl.pdb
+C:\Users\jhaber\Desktop\WinFormsWsdl\obj\Debug\WinFormsWsdl.csprojResolveAssemblyReference.cache
+C:\Users\jhaber\Desktop\WinFormsWsdl\obj\Debug\WinFormsWsdl.Form1.resources
+C:\Users\jhaber\Desktop\WinFormsWsdl\obj\Debug\WinFormsWsdl.Properties.Resources.resources
+C:\Users\jhaber\Desktop\WinFormsWsdl\obj\Debug\WinFormsWsdl.csproj.GenerateResource.Cache
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\bin\Debug\WinFormsWsdl.exe.config
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\obj\Debug\WinFormsWsdl.exe
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\obj\Debug\WinFormsWsdl.pdb
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\bin\Debug\WinFormsWsdl.exe
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\bin\Debug\WinFormsWsdl.pdb
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\obj\Debug\WinFormsWsdl.csprojResolveAssemblyReference.cache
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\obj\Debug\WinFormsWsdl.Form1.resources
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\obj\Debug\WinFormsWsdl.Properties.Resources.resources
+C:\Projects\Salesforce Query Tool\WinFormsWsdl\obj\Debug\WinFormsWsdl.csproj.GenerateResource.Cache
